@@ -1,0 +1,2 @@
+Rc.exe ResXpStylesTester.rc
+
